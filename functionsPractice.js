@@ -1,5 +1,5 @@
 //  write a fuction to calculate tax
-
+// here is
 
 function calculateTax(amount){
     const taxRate = .07
